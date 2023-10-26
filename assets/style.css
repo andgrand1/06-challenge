@@ -3,3 +3,16 @@
     color:white;
     border-radius: 6px;
   }
+  .forecast-item {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    width: 300px;
+    border: 15px solid white;
+    padding: 50px;
+    margin: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    
+  }
