@@ -1,4 +1,4 @@
-const baseUrl = "http://api.openweathermap.org/geo/1.0/direct?"
+const baseUrl = "https://api.openweathermap.org/geo/1.0/direct?"
 const apiKey = "4aa9e58bea85b7557cdabbdc35a83f59"
 
 var buttonClick = document.getElementById("search-button");
